@@ -36,6 +36,3 @@ Soy un desarrollador junior apasionado por el backend, especializado en PHP y La
 
 ---
 *"El código limpio no se escribe siguiendo un conjunto de reglas. Escribes tu código primero y después lo limpias." - Robert C. Martin*
-
-<!-- Para mostrar tus lenguajes más usados: -->
-![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=fer-gc05&layout=compact&theme=dark)
