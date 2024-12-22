@@ -29,7 +29,7 @@ Soy un desarrollador junior apasionado por el backend, especializado en PHP y La
 - Mejorar mis habilidades en testing y CI/CD
 
 ## 📫 Conecta Conmigo
-- [LinkedIn](tu-linkedin)
+- [LinkedIn](https://www.linkedin.com/in/fernando-luis-gil-correa-143587263/)
 
 ## ⚡ Dato Curioso
 ¿Sabías que PHP originalmente significaba "Personal Home Page"? 🤔 Rasmus Lerdorf lo creó en 1994 solo para rastrear visitas a su CV en línea. Hoy procesa más del 75% de la web y significa "PHP: Hypertext Preprocessor". ¡De un CV a potenciar Facebook y WordPress! 🚀
