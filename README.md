@@ -1,4 +1,4 @@
-# ¡Hola! 👋 Soy [Fernando]
+# ¡Hola! 👋 Soy Fernando.
 
 ## 👨‍💻 Sobre mí
 Soy un desarrollador junior apasionado por el backend, especializado en PHP y Laravel. Me emociona crear soluciones web eficientes y aprender nuevas tecnologías. Además de mi enfoque principal en el desarrollo web, exploro el fascinante mundo del Machine Learning con Python.
