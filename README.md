@@ -1,31 +1,27 @@
-# ¡Hola! 👋 Soy Fernando.
+# ¡Hola! 👋 
 
 ## 👨‍💻 Sobre mí
-Soy un desarrollador junior apasionado por el backend, especializado en PHP y Laravel. Me emociona crear soluciones web eficientes y aprender nuevas tecnologías. Además de mi enfoque principal en el desarrollo web, exploro el fascinante mundo del Machine Learning con Python.
+Soy un desarrollador junior apasionado por el backend, especializado en PHP y Laravel. Me dedico a crear aplicaciones web robustas y APIs RESTful eficientes. Mi enfoque está en desarrollar soluciones escalables y mantener un código limpio y bien documentado.
 
 ## 🛠️ Stack Tecnológico
-
-### Desarrollo Web
+### Desarrollo Web & APIs
 - **PHP** - Mi lenguaje principal para desarrollo backend
-- **Laravel** - Mi framework de preferencia para crear aplicaciones web robustas
+- **Laravel** - Framework que utilizo para crear:
+  - Aplicaciones web
+  - APIs RESTful
+  - Sistemas de autenticación seguros
+  - Integraciones con servicios externos
 - **MySQL** - Gestión y diseño de bases de datos relacionales
-
-### Data Science & Machine Learning
-- **Python** - Exploración de análisis de datos y algoritmos de ML
-- **Flask** - Desarrollo de APIs ligeras y microservicios
-- **Scikit-learn** - Implementación de modelos de Machine Learning
-- **Pandas & NumPy** - Análisis y manipulación de datos
+- **Redis** - Caché y optimización de rendimiento
 
 ## 🌱 Actualmente estoy...
 - Profundizando mis conocimientos en Laravel
-- Explorando nuevos algoritmos de Machine Learning
 - Mejorando mis habilidades en el desarrollo de APIs RESTful
-- Aprendiendo sobre patrones de diseño y clean code
+- Implementando mejores prácticas de seguridad en APIs
 
 ## 💡 Objetivos
 - Contribuir a proyectos open source
-- Desarrollar proyectos full-stack completo
-- Implementar un modelo de ML en producción
+- Especializarme en arquitecturas API-first
 - Mejorar mis habilidades en testing y CI/CD
 
 ## 📫 Conecta Conmigo
