@@ -31,4 +31,17 @@ Soy un desarrollador junior apasionado por el backend, especializado en PHP y La
 ¿Sabías que PHP originalmente significaba "Personal Home Page"? 🤔 Rasmus Lerdorf lo creó en 1994 solo para rastrear visitas a su CV en línea. Hoy procesa más del 75% de la web y significa "PHP: Hypertext Preprocessor". ¡De un CV a potenciar Facebook y WordPress! 🚀
 
 ---
+
+## 🏆 Certificaciones
+
+<div style="display: flex; gap: 15px; flex-wrap: wrap;">
+
+[![Google Cybersecurity](https://img.shields.io/badge/Google-Ciberseguridad-34a853?style=for-the-badge&logo=google&logoColor=white)](https://coursera.org/share/7a68dbda8b4e06dc383c5cd6f3c3ddec)
+
+[![Oracle ONE](https://img.shields.io/badge/Oracle_Next_Education-Back--end_Specialist-F80000?style=for-the-badge&logo=oracle&logoColor=white)](https://app.aluracursos.com/program/certificate/0c968ec0-1040-4b42-b690-4148affc6249?lang)
+
+</div>
+
+---
+
 *"El código limpio no se escribe siguiendo un conjunto de reglas. Escribes tu código primero y después lo limpias." - Robert C. Martin*
