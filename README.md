@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=FF2D20&width=600&lines=Hola%2C+soy+Fernando+Gil;Backend+Developer+en+PHP+%26+Laravel;APIs+RESTful+%7C+Clean+Code+%7C+Good+Practices)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=FF2D20&width=600&lines=Hola%2C+soy+Fernando+Gil;Ingeniero+en+Sistemas+%7C+Backend+Developer;PHP+%26+Laravel+%7C+APIs+RESTful+%7C+Clean+Code)](https://git.io/typing-svg)
 
 ## 👨‍💻 Sobre mí
 Soy **Ingeniero en Sistemas** y desarrollador backend especializado en PHP y Laravel. Me dedico a crear aplicaciones web robustas y APIs RESTful eficientes. Mi enfoque está en desarrollar soluciones escalables y mantener un código limpio y bien documentado.
