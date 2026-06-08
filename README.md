@@ -31,9 +31,9 @@ Soy **Ingeniero en Sistemas** y desarrollador backend especializado en PHP y Lar
 
 ## 📈 Estadísticas
 
-![Stats](https://github-readme-stats.vercel.app/api?username=fer-gc05&show_icons=true&theme=radical&locale=es)
+![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=fer-gc05&show_icons=true&theme=radical&locale=es)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fer-gc05&layout=compact&theme=radical&locale=es)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=fer-gc05&layout=compact&theme=radical&locale=es)
 
 ![Streak](https://streak-stats.demolab.com?user=fer-gc05&theme=radical&locale=es)
 
