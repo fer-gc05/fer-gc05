@@ -31,17 +31,14 @@ Soy **Ingeniero en Sistemas** y desarrollador backend especializado en PHP y Lar
 
 ## 📈 Estadísticas
 
-![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=fer-gc05&show_icons=true&theme=radical&locale=es)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=fer-gc05&theme=react-dark&hide_border=true)
 
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=fer-gc05&layout=compact&theme=radical&locale=es)
-
-![Streak](https://streak-stats.demolab.com?user=fer-gc05&theme=radical&locale=es)
+![Streak](https://streak-stats.demolab.com?user=fer-gc05&theme=radical)
 
 ## 🌱 Actualmente estoy...
 - Profundizando mis conocimientos en Laravel
 - Mejorando mis habilidades en el desarrollo de APIs RESTful
 - Implementando mejores prácticas de seguridad en APIs
-
 
 ## 💡 Objetivos
 - Contribuir a proyectos open source
