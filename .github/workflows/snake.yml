@@ -1,0 +1,32 @@
+name: Generate contribution snake
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"   # cada 12 horas
+  workflow_dispatch:          # botón "Run workflow" manual
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Generar snake (SVG)
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/snake-matrix.svg?color_snake=#d9ffe3&color_dots=#0b1a0f,#014d1a,#018a2d,#00c43a,#00ff41
+            dist/snake-light.svg?palette=github-light&color_snake=#006b00
+
+      - name: Publicar en la rama output
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
