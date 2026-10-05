@@ -1,8 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 280" width="900" height="280" role="img" aria-label="Fernando Gil - Backend Developer">
 <defs>
-<linearGradient id="trail" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="0" y2="289"><stop offset="0" stop-color="#00ff41" stop-opacity="0"/><stop offset="0.8" stop-color="#00ff41" stop-opacity="0.55"/><stop offset="1" stop-color="#d9ffe3" stop-opacity="1"/></linearGradient>
-<linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#020a04"/><stop offset="1" stop-color="#051208"/></linearGradient>
-<filter id="glow" x="-20%" y="-50%" width="140%" height="200%"><feGaussianBlur stdDeviation="2.2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+<linearGradient id="trail" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="0" y2="289"><stop offset="0" stop-color="#3fb950" stop-opacity="0"/><stop offset="0.8" stop-color="#3fb950" stop-opacity="0.3"/><stop offset="1" stop-color="#85e89d" stop-opacity="0.7"/></linearGradient>
+<linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#0d1117"/><stop offset="1" stop-color="#01060c"/></linearGradient>
+<filter id="glow" x="-20%" y="-50%" width="140%" height="200%"><feGaussianBlur stdDeviation="1.2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
 <radialGradient id="vig" cx="50%" cy="50%" r="75%"><stop offset="0.55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity="0.75"/></radialGradient>
 <clipPath id="c0"><rect x="78" y="96" width="0" height="30"><animate attributeName="width" dur="16.0s" repeatCount="indefinite" keyTimes="0;0.0437;0.0812;0.94;1" values="0;0;96.0;96.0;0"/></rect></clipPath>
 <clipPath id="c1"><rect x="78" y="132" width="0" height="30"><animate attributeName="width" dur="16.0s" repeatCount="indefinite" keyTimes="0;0.1094;0.2922;0.94;1" values="0;0;468.0;468.0;0"/></rect></clipPath>
@@ -18,7 +18,7 @@ text{font-family:"Courier New",Courier,monospace}
 .f4{animation:fall 10.9s linear infinite}
 .f5{animation:fall 12.5s linear infinite}
 @keyframes blink{0%,49%{opacity:1}50%,100%{opacity:0}}.cur{animation:blink 1s step-end infinite}
-.cmd{fill:#7dffa0}.out{fill:#00ff41}
+.cmd{fill:#7ee787}.out{fill:#56d364}
 </style>
 </defs>
 <rect width="900" height="280" fill="url(#bg)"/>
@@ -61,18 +61,18 @@ text{font-family:"Courier New",Courier,monospace}
 <g class="f4" style="animation-delay:-11.3s" opacity="0.8"><text class="r"><tspan x="887" y="17">/</tspan><tspan x="887" y="34">&gt;</tspan><tspan x="887" y="51">F</tspan><tspan x="887" y="68">&lt;</tspan><tspan x="887" y="85">&gt;</tspan><tspan x="887" y="102">F</tspan><tspan x="887" y="119">C</tspan><tspan x="887" y="136">#</tspan><tspan x="887" y="153">$</tspan><tspan x="887" y="170">+</tspan><tspan x="887" y="187">{</tspan><tspan x="887" y="204">$</tspan><tspan x="887" y="221">D</tspan><tspan x="887" y="238">;</tspan><tspan x="887" y="255">1</tspan><tspan x="887" y="272">B</tspan><tspan x="887" y="289">C</tspan></text></g>
 </g>
 <rect width="900" height="280" fill="url(#vig)"/>
-<rect x="48" y="52" width="640" height="190" rx="8" fill="#000" fill-opacity="0.78" stroke="#00ff41" stroke-opacity="0.55"/>
-<rect x="48" y="52" width="640" height="26" rx="8" fill="#00ff41" fill-opacity="0.12"/>
+<rect x="48" y="52" width="640" height="190" rx="8" fill="#000" fill-opacity="0.78" stroke="#3fb950" stroke-opacity="0.35"/>
+<rect x="48" y="52" width="640" height="26" rx="8" fill="#3fb950" fill-opacity="0.1"/>
 <circle cx="66" cy="65" r="5" fill="#ff5f57" fill-opacity="0.9"/>
 <circle cx="84" cy="65" r="5" fill="#febc2e" fill-opacity="0.9"/>
 <circle cx="102" cy="65" r="5" fill="#28c840" fill-opacity="0.9"/>
-<text x="368.0" y="69" text-anchor="middle" font-size="12" fill="#00ff41" fill-opacity="0.8">fer-gc05@backend:~</text>
+<text x="368.0" y="69" text-anchor="middle" font-size="12" fill="#8b949e" fill-opacity="0.9">fer-gc05@backend:~</text>
 <text x="78" y="118" font-size="20" class="cmd" filter="url(#glow)" clip-path="url(#c0)" xml:space="preserve">$ whoami</text>
 <text x="78" y="154" font-size="20" class="out" filter="url(#glow)" clip-path="url(#c1)" xml:space="preserve">&gt; Fernando Gil // Ingeniero de Sistemas</text>
 <text x="78" y="190" font-size="20" class="cmd" filter="url(#glow)" clip-path="url(#c2)" xml:space="preserve">$ stack --backend</text>
 <text x="78" y="226" font-size="20" class="out" filter="url(#glow)" clip-path="url(#c3)" xml:space="preserve">&gt; PHP | Laravel | APIs REST | Linux</text>
-<g opacity="0"><animate attributeName="opacity" dur="16.0s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.0437;0.1094" values="0;1;0"/><rect class="cur" x="78" y="100" width="10" height="22" fill="#00ff41"><animate attributeName="x" dur="16.0s" repeatCount="indefinite" keyTimes="0;0.0437;0.0812;1" values="78;78;174.0;174.0"/></rect></g>
-<g opacity="0"><animate attributeName="opacity" dur="16.0s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.1094;0.3203" values="0;1;0"/><rect class="cur" x="78" y="136" width="10" height="22" fill="#00ff41"><animate attributeName="x" dur="16.0s" repeatCount="indefinite" keyTimes="0;0.1094;0.2922;1" values="78;78;546.0;546.0"/></rect></g>
-<g opacity="0"><animate attributeName="opacity" dur="16.0s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.3203;0.4281" values="0;1;0"/><rect class="cur" x="78" y="172" width="10" height="22" fill="#00ff41"><animate attributeName="x" dur="16.0s" repeatCount="indefinite" keyTimes="0;0.3203;0.4000;1" values="78;78;282.0;282.0"/></rect></g>
-<g opacity="0"><animate attributeName="opacity" dur="16.0s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.4281;0.9400" values="0;1;0"/><rect class="cur" x="78" y="208" width="10" height="22" fill="#00ff41"><animate attributeName="x" dur="16.0s" repeatCount="indefinite" keyTimes="0;0.4281;0.5922;1" values="78;78;498.0;498.0"/></rect></g>
+<g opacity="0"><animate attributeName="opacity" dur="16.0s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.0437;0.1094" values="0;1;0"/><rect class="cur" x="78" y="100" width="10" height="22" fill="#3fb950"><animate attributeName="x" dur="16.0s" repeatCount="indefinite" keyTimes="0;0.0437;0.0812;1" values="78;78;174.0;174.0"/></rect></g>
+<g opacity="0"><animate attributeName="opacity" dur="16.0s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.1094;0.3203" values="0;1;0"/><rect class="cur" x="78" y="136" width="10" height="22" fill="#3fb950"><animate attributeName="x" dur="16.0s" repeatCount="indefinite" keyTimes="0;0.1094;0.2922;1" values="78;78;546.0;546.0"/></rect></g>
+<g opacity="0"><animate attributeName="opacity" dur="16.0s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.3203;0.4281" values="0;1;0"/><rect class="cur" x="78" y="172" width="10" height="22" fill="#3fb950"><animate attributeName="x" dur="16.0s" repeatCount="indefinite" keyTimes="0;0.3203;0.4000;1" values="78;78;282.0;282.0"/></rect></g>
+<g opacity="0"><animate attributeName="opacity" dur="16.0s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.4281;0.9400" values="0;1;0"/><rect class="cur" x="78" y="208" width="10" height="22" fill="#3fb950"><animate attributeName="x" dur="16.0s" repeatCount="indefinite" keyTimes="0;0.4281;0.5922;1" values="78;78;498.0;498.0"/></rect></g>
 </svg>

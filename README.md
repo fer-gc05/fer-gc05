@@ -13,6 +13,8 @@
 
 Soy **Ingeniero de Sistemas** y desarrollador backend especializado en **PHP y Laravel**. Construyo aplicaciones web robustas y APIs RESTful eficientes, con foco en soluciones escalables, seguridad y código limpio y bien documentado.
 
+Actualmente cursando la **Especialización Virtual en Ciberseguridad** en la [Corporación Universitaria de Asturias](https://www.uniasturias.edu.co/).
+
 ## `> stack`
 
 <p>
@@ -38,22 +40,22 @@ Soy **Ingeniero de Sistemas** y desarrollador backend especializado en **PHP y L
   <img src="https://img.shields.io/badge/PHPUnit-0d1117?style=for-the-badge&logo=php&logoColor=00ff41" alt="PHPUnit">
 </p>
 
-## `> proyectos_destacados`
+## `> estadisticas`
 
-| Proyecto                                                                                                              | Qué es                                                                                    | Stack                               |
-| --------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ | ----------------------------------- |
-| [**AventuraLocalApi**](https://github.com/fer-gc05/AventuraLocalApi)                                             | API REST de turismo local: destinos, eventos, rutas y reservas, con documentación OpenAPI | Laravel 12 · MySQL · Redis · JWT |
-| [**IoT-Firefighting-API**](https://github.com/fer-gc05/IoT-Firefighting-API)                                     | API para prevención de incendios con sensores IoT, roles de admin y usuario               | Laravel 11 · JWT                   |
-| [**Authentication-Microservice**](https://github.com/fer-gc05/Authentication-Microservice)                       | Microservicio de autenticación y autorización                                            | Spring Boot 3 · JWT                |
-| [**Vive Patrimonio**](https://github.com/fer-gc05/vive-patrimonio) · [demo](https://vivepatrimonio.netlify.app/) | Sitio real para un restaurante sobre el río Sinú, con panel de administración           | Nuxt 3 · TypeScript · Supabase    |
-| [**dev_null**](https://github.com/fer-gc05/dev_null) · [demo](https://devnull.bond/)                             | Guía para mi iniciativa de contenido informático en YouTube                              | Vue 3                               |
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=fer-gc05&show_icons=true&include_all_commits=true&hide_border=true&border_radius=10&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9&ring_color=00ff41" height="165" alt="Estadísticas de GitHub">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fer-gc05&layout=compact&langs_count=6&hide_border=true&border_radius=10&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9" height="165" alt="Tecnologías más usadas">
+</p>
 
-Más en el [portafolio](https://ferchgc.netlify.app/) y en mis repositorios fijados.
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=fer-gc05&hide_border=true&border_radius=10&background=0d1117&ring=00ff41&fire=00ff41&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=00ff41&sideLabels=8b949e&dates=8b949e" alt="Racha de contribuciones">
+</p>
 
 ## `> estado`
 
 ```console
 $ cat estado.txt
+[+] especialización en Ciberseguridad — UniAsturias (en curso)
 [+] profundizando en Laravel
 [+] mejorando el diseño de APIs RESTful
 [+] aplicando mejores prácticas de seguridad en APIs
