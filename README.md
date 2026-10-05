@@ -69,9 +69,9 @@ $ cat objetivos.txt
 ## `> contribuciones`
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fer-gc05/fer-gc05/output/snake-matrix.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fer-gc05/fer-gc05/output/snake-light.svg">
-  <img alt="Contribuciones de GitHub como juego de la serpiente" src="https://raw.githubusercontent.com/fer-gc05/fer-gc05/output/snake-matrix.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fer-gc05/fer-gc05/output/snake-matrix.svg?v=2">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fer-gc05/fer-gc05/output/snake-light.svg?v=2">
+  <img alt="Contribuciones de GitHub como juego de la serpiente" src="https://raw.githubusercontent.com/fer-gc05/fer-gc05/output/snake-matrix.svg?v=2">
 </picture>
 
 ## `> certificaciones`
