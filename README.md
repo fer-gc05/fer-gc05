@@ -64,6 +64,7 @@ $ cat objetivos.txt
 [>] contribuir a proyectos open source
 [>] especializarme en arquitecturas API-first
 [>] subir el nivel en testing y CI/CD
+[>] crear apis modernas
 ```
 
 ## `> contribuciones`
