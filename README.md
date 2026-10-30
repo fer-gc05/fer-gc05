@@ -1,4 +1,3 @@
-
 <div align="center">
   <img src="assets/header.svg" alt="Fernando Gil — Backend Developer" width="100%">
 </div>
@@ -43,8 +42,8 @@ Actualmente cursando la **Especialización Virtual en Ciberseguridad** en la [Co
 ## `> estadisticas`
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fer-gc05&show_icons=true&include_all_commits=true&hide_border=true&border_radius=10&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9&ring_color=00ff41" height="165" alt="Estadísticas de GitHub">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fer-gc05&layout=compact&langs_count=6&hide_border=true&border_radius=10&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9" height="165" alt="Tecnologías más usadas">
+  <img src="https://raw.githubusercontent.com/fer-gc05/fer-gc05/main/profile-summary-card-output/github_dark/3-stats.svg" height="165" alt="Estadísticas de GitHub">
+  <img src="https://raw.githubusercontent.com/fer-gc05/fer-gc05/main/profile-summary-card-output/github_dark/1-repos-per-language.svg" height="165" alt="Tecnologías más usadas">
 </p>
 
 <p align="center">
