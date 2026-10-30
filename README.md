@@ -42,8 +42,8 @@ Actualmente cursando la **Especialización Virtual en Ciberseguridad** en la [Co
 ## `> estadisticas`
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/fer-gc05/fer-gc05/main/profile-summary-card-output/github_dark/3-stats.svg" height="165" alt="Estadísticas de GitHub">
-  <img src="https://raw.githubusercontent.com/fer-gc05/fer-gc05/main/profile-summary-card-output/github_dark/1-repos-per-language.svg" height="165" alt="Tecnologías más usadas">
+  <img src="assets/stats.svg" height="165" alt="Estadísticas de GitHub">
+  <img src="assets/langs.svg" height="165" alt="Tecnologías más usadas">
 </p>
 
 <p align="center">
